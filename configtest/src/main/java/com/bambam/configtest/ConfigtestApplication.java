@@ -25,6 +25,8 @@ public class ConfigtestApplication {
 		Doctor doctor1 = context.getBean(Doctor.class);
 		System.out.println(doctor1);
 		
+
+		
 	}
 
 }
